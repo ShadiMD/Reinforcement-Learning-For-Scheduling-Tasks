@@ -1,4 +1,4 @@
-Reinforcement Learning for Task Scheduling
+# Reinforcement Learning for Task Scheduling
 Project Overview
 This project explores Task Scheduling in Multi-Processor Environments using two approaches:
 
