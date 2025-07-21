@@ -1,5 +1,5 @@
-# Reinforcement Learning for Task Scheduling
-Project Overview
+## Reinforcement Learning for Task Scheduling
+# Project Overview
 This project explores Task Scheduling in Multi-Processor Environments using two approaches:
 
 Greedy Scheduling – a simple heuristic baseline.
